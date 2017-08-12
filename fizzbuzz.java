@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Created by Colin on 7/20/2017.
+ * Created by vonclaude on 7/20/2017.
  */
 public class fizzbuzz {
 
